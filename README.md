@@ -11,16 +11,13 @@
 🌐 **Live Demo:** [click-cart-ecommerce.vercel.app](https://ecommers-pied.vercel.app/) <!-- update with your actual URL -->
 
 ---
+**Home Page**
 
-## 📸 Screenshots
+![home](https://github.com/user-attachments/assets/0a6cd817-b4c8-4369-b54c-f87986cf929e)
 
-> _Add screenshots here after capturing them_
-> 
-> | Home Page | Product Page | Cart |
-> |-----------|-------------|------|
-> | <img width="1854" height="863" alt="image" src="https://github.com/user-attachments/assets/0a6cd817-b4c8-4369-b54c-f87986cf929e" />
- | !<img width="1353" height="890" alt="image" src="https://github.com/user-attachments/assets/347a6bb2-3a4b-433e-b0cb-4dd3c3c7b5a9" />
- | ! |
+**Products Page**
+
+![products](https://github.com/user-attachments/assets/347a6bb2-3a4b-433e-b0cb-4dd3c3c7b5a9)
 
 ---
 
