@@ -8,7 +8,7 @@
 
 > A fully functional full-stack e-commerce application with product listing, cart, wishlist, authentication, and checkout — built with React.js (frontend) and Java Spring Boot (backend).
 
-🌐 **Live Demo:** [click-cart-ecommerce.vercel.app](https://click-cart-ecommerce-.vercel.app) <!-- update with your actual URL -->
+🌐 **Live Demo:** [click-cart-ecommerce.vercel.app](https://ecommers-pied.vercel.app/) <!-- update with your actual URL -->
 
 ---
 
@@ -18,7 +18,9 @@
 > 
 > | Home Page | Product Page | Cart |
 > |-----------|-------------|------|
-> | ![home]() | ![product]() | ![cart]() |
+> | <img width="1854" height="863" alt="image" src="https://github.com/user-attachments/assets/0a6cd817-b4c8-4369-b54c-f87986cf929e" />
+ | !<img width="1353" height="890" alt="image" src="https://github.com/user-attachments/assets/347a6bb2-3a4b-433e-b0cb-4dd3c3c7b5a9" />
+ | ! |
 
 ---
 
@@ -104,7 +106,6 @@ Click-Cart-Ecommerce/
 
 ### Prerequisites
 - Java 17+
-- Node.js 18+
 - MySQL 8.0+
 - Maven 3.x
 
